@@ -27,9 +27,9 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
+/*h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
-ul, ol, dl, figure,
+ul, ol, dl, figure,*/
 
 /**
  * `main` element
@@ -120,8 +120,9 @@ input[type=submit] {
   color: white;
   padding: 12px 20px;
   border: none;
-  cursor: pointer;
-}input[type=submit]:hover {
+  cursor: pointer;}
+
+  input[type=submit]:hover {
   background-color: #f4f5f7;
   color: black;
 }
