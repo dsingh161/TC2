@@ -1,4 +1,4 @@
-USAGE - to view online, travel to the page: https://dsingh161.github.io/TC2/index.html \\
+USAGE - to view online, travel to the page: https://dsingh161.github.io/TC2/index.html
         to view locally: download the code in the git repo
                          go to the following site and download jekyll and bundle: https://jekyllrb.com/docs/
                          travel to your local host server from the "Server Address" provided
