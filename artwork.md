@@ -19,7 +19,7 @@ layout: header
 
 <div id="img4">
   <div class="img-wrap-two">
-    <img src="../dundermifflin.jpg" alt="Dunder Mifflin Inc. Sketch" style="width:425px;height:425px;margin-left:90px;margin-top:40px"/>
+    <img src="/dundermifflin.jpg" alt="Dunder Mifflin Inc. Sketch" style="width:425px;height:425px;margin-left:90px;margin-top:40px"/>
   </div>
   <div class="desc-two">
     <p style="margin-top:190px;margin-right:60px"> 
@@ -36,7 +36,7 @@ layout: header
 
 <div id="img5">
   <div class="img-wrap-one">
-    <img src="../stapler.png" alt="Stapler Watercolor" style="width:200px;height:150px;margin-right:200px;margin-top:20px"/>
+    <img src="/stapler.png" alt="Stapler Watercolor" style="width:200px;height:150px;margin-right:200px;margin-top:20px"/>
   </div>
   <div class="desc-one">
      <p style="margin-top:90px;margin-left:90px">
@@ -50,7 +50,7 @@ layout: header
 
 <div id="img6">
   <div class="img-wrap-two">
-    <img src="../flowerpot2.jpg" alt="Flowers in Vase Watercolor" style="width:300px;height:405px;margin-left:90px;margin-top:40px"/>
+    <img src="/flowerpot2.jpg" alt="Flowers in Vase Watercolor" style="width:300px;height:405px;margin-left:90px;margin-top:40px"/>
   </div>
   <div class="desc-two">
     <p style="margin-top:215px;margin-right:60px"> 
@@ -64,7 +64,7 @@ layout: header
 
 <div id="img7">
   <div class="img-wrap-one">
-    <img src="../birds.jpg" alt="Three Baby Birds" style="width:500px;height:406px;margin-right:100px;margin-top:30px"/>
+    <img src="/birds.jpg" alt="Three Baby Birds" style="width:500px;height:406px;margin-right:100px;margin-top:30px"/>
   </div>
   <div class="desc-one">
      <p style="margin-top:90px;margin-left:90px">
