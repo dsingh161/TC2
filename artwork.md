@@ -4,7 +4,7 @@ layout: header
 
 <div id="img3">
   <div class="img-wrap-one">
-    <img src="../flowerpot.png" alt="Flowerpot Watercolor" style="width:280px;height:370px;margin-right:200px;margin-top:20px"/>
+    <img src="/flowerpot.png" alt="Flowerpot Watercolor" style="width:280px;height:370px;margin-right:200px;margin-top:20px"/>
   </div>
   <div class="desc-one">
      <p style="margin-top:160px;margin-left:90px">
