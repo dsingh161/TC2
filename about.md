@@ -7,7 +7,7 @@ layout: header
     <img src="asianjim.jpg" alt="Halpert Family Photo" style="width:400px;height:550px;margin-left:120px;margin-top:20px"/>
   </div>
   <div class="desc-two">
-    <p style="margin-top:120px;margin-right:60px"> 
+    <p style="margin-top:120px;margin-right:120px"> 
     	Pam Halpert originally began her journey into the world of art as a <br/> 
     	receptionist for Dunder Mifflin Inc. (a paper company) in Scranton, <br/> 
     	Pennsylvania. She was then accepted into the Pratt Institute where  <br/>

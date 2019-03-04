@@ -7,7 +7,7 @@ layout: header
     <div class="column">
       <img src="contact.jpg" style="width:84%;margin-left:80px;margin-top:80px">
     </div>
-    <div class="column">
+    <div class="column" style="font-family:'Arial',serif;">
         <label for="fname">First Name</label>
         <input type="text" id="fname" name="firstname" placeholder="First Name" style="background-color: #f4f5f7">
         <label for="lname">Last Name</label>
@@ -23,7 +23,7 @@ layout: header
         </select>
         <label for="subject">Subject</label>
         <textarea id="subject" name="subject" placeholder="Let us know what you think!" style="height:170px;background-color: #f4f5f7"></textarea>
-        <a href='/'><input type="submit" value="Submit"></a>
+        <a href='/'><input type="submit" value="Submit" style="font-family:'Arial',serif;"></a>
     </div>
   </div>
 </div>

@@ -1,9 +1,7 @@
 /**
  * Reset some basic elements
  */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+body, h1, h2, h3, ul{
   margin: 0;
   padding: 0; }
 
@@ -11,32 +9,13 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #111;
-  background-color: #fdfdfd;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
-  -moz-font-feature-settings: "kern" 1;
-  -o-font-feature-settings: "kern" 1;
-  font-feature-settings: "kern" 1;
-  font-kerning: normal;
+  font: 400 16px/1.5 BlinkMacSystemFont;
   display: flex;
-  min-height: 100vh;
-  flex-direction: column; }
+  flex-direction: column; 
+  width: 1280px;
+}
 
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-/*h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,*/
 
-/**
- * `main` element
- */
-main {
-  display: block;
-  /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
 
 img{
   width:auto;
@@ -71,22 +50,33 @@ h1 {
   font-size: 36px;
   font-weight: 600;
   font-family: 'Zilla Slab', serif;
-  padding-left: 90px;
-  padding-top:6px;
-  padding-bottom:7px;}
+  margin-left: 90px;
+  margin-top:6px;
+  margin-bottom:7px;}
   h1:hover {
     color: #a9b8d1;}
 
-.nav-btn {
+.nav-btn, .auction-btn-left, .auction-btn-right  {
   color: #a9b8d1;
   font-size: 18px;
   font-weight: 400;
   font-family: 'Zilla Slab', serif;
-  padding-left: 110px;
-  padding-top:15px;
+  margin-left: 110px;
+  margin-top:15px;
   display: inline-block;
-}
-  .nav-btn:hover, .nav-btn:focus {
+  }
+
+  .auction-btn-left{
+      padding: 0;
+      margin-left:489px;
+  }
+
+  .auction-btn-right{
+      padding: 0;
+      margin-left:65px;
+  }
+
+  .nav-btn:hover, .auction-btn-left:hover, .auction-btn-right:hover{
     color: #0a3882;
   }
 
@@ -97,13 +87,20 @@ h2 {
   font-family: 'Zilla Slab', serif;
   }
 
-
+h3 {
+  color: #0a3882;
+  font-size: 36px;
+  font-weight: 600;
+  font-family: 'Zilla Slab', serif;
+  margin-left: 90px;
+  margin-top:6px;
+  margin-bottom:7px;}
 
 * {
   box-sizing: border-box;
 }
 
-/*  CONTACT PAGE */
+/*  CONTACT */
 
 /* all the text stuff */
 input[type=text], select, textarea {
@@ -112,6 +109,7 @@ input[type=text], select, textarea {
   border: 1px;
   margin-top: 6px;
   margin-bottom: 16px;
+  font-family: 'Arial', serif;;
 }
 
 /* specific to submit button */
@@ -120,7 +118,7 @@ input[type=submit] {
   color: white;
   padding: 12px 20px;
   border: none;
-  cursor: pointer;}
+  font-family: 'Arial', serif;}
 
   input[type=submit]:hover {
   background-color: #f4f5f7;
@@ -132,16 +130,15 @@ input[type=submit] {
 .column {
   float: left;
   width: 50%;
-  margin-top: 6px;
+  margin-top: 10px;
   padding: 20px;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
+
+
+
+
 
 
 
