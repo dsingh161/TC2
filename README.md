@@ -12,8 +12,8 @@ DESIGN DECISIONS - I really wanted my site to be sleek and minimal. I used Barba
                    pattern of where the pictures are placed in the artwork page would force the users eyes to explore 
                    more. Since I'm using a fictional character from the beloved "The Office" show, I figured most 
                    of the audience would be "The Office" fans. To cater to them, I tried to reference some funny office
-                   bits (ex: asian jim family photo, dwight as a buyer). I chose the sleek and minimal design to 
-                   mimic Pam's style, which is very minimal and professional. 
+                   bits (ex: asian jim family photo, dwight as a buyer, kevin chili gif). I chose the sleek and minimal 
+                   design to mimic Pam's style, which is very minimal and professional. 
               
 CHALLENGE - I think I really challenged myself with this project. I've never created an html site from scratch before
             and haven't had that much experience with html in general. I've also never used jekyll before. So, through
@@ -33,6 +33,8 @@ CREDITS - Pictures: http://www.pamwenger.com/still-life-1 (flowerpot2)
                     https://www.amazon.com/Beesly-Building-Watercolor-Painting-Mifflin/dp/B074NB8H2H (dundermifflin)
                     http://www.artisticfinishes-ct.com/tag/watercolor-painting/ (birds)
                     https://www.thefandomentals.com/pam-beesly-the-office/ (contact)
+                    https://i.pinimg.com/originals/d6/c4/91/d6c491d19b6d78eec76e0a6a1a71870c.jpg (austingallery)
+                    https://thumbs.gfycat.com/PolishedDeadCollie-size_restricted.gif (sorry.gif)
           Inspiration: http://www.barbaraprey.com/
                        https://sparanoid.com/
           Help: https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
