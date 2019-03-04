@@ -25,7 +25,9 @@ CHALLENGE - I think I really challenged myself with this project. I've never cre
             a GitHub account earlier this year for this class. I hadn't yet had to use it on my own, either. So, that
             was definitely a challenge and I had to spend some time trying to figure out why my GitHub pages stuff wasn't
             working. However, I think I have a really good handle on it now and I'm excited that I can turn any website I
-            want into a link that I can easily send to family and friends!
+            want into a link that I can easily send to family and friends! Update: I tried adding logos to the bottom of the 
+            header layout. I wanted the logos to become colored when the user hovered on them but I couldn't quite get the 
+            backgroun image thing to work. 
 
 CREDITS - Pictures: http://www.pamwenger.com/still-life-1 (flowerpot2)
                     https://i.redd.it/cztoid8xwyv11.jpg (flowerpot and stapler)
@@ -35,6 +37,11 @@ CREDITS - Pictures: http://www.pamwenger.com/still-life-1 (flowerpot2)
                     https://www.thefandomentals.com/pam-beesly-the-office/ (contact)
                     https://i.pinimg.com/originals/d6/c4/91/d6c491d19b6d78eec76e0a6a1a71870c.jpg (austingallery)
                     https://thumbs.gfycat.com/PolishedDeadCollie-size_restricted.gif (sorry.gif)
+                    https://www.flaticon.com/free-icon/wikipedia-logo_49532#term=wikipedia&page=1&position=21 (wikipedia)
+                    https://www.flaticon.com/free-icon/facebook-logo_33702#term=facebook&page=1&position=5 (facebook)
+                    https://www.flaticon.com/free-icon/facebook_174848#term=facebook&page=1&position=2 (facebookcolor)
+          Links: https://www.facebook.com/profile.php?id=100007344079421 (pam facebook)
+                 https://en.wikipedia.org/wiki/Pam_Beesly (pam wikipedia)
           Inspiration: http://www.barbaraprey.com/
                        https://sparanoid.com/
           Help: https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
