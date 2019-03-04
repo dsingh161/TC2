@@ -138,6 +138,23 @@ input[type=submit] {
 }
 
 
+/* logos */
+.wiki-one{
+  float:right;
+  color:#0a3882;
+}
+.facebook-one{
+  float:left;
+  color:#0a3882;
+} 
+
+/*tried this, couldn't get it to work
+.facebook-one:hover{
+  image: url('facebookcolor.png');
+  width:30px;
+  height:30px;
+}
+*/
 
 
 
